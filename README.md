@@ -22,13 +22,14 @@ An interactive dashboard to analyze sales performance across products, regions, 
 <img width="594" alt="Screenshot 2025-07-05 190624" src="https://github.com/user-attachments/assets/0aae08dd-d541-49b4-a68b-54c9c5efa537" />
 
 Key Features and Insights:
-Sales Overview
+
+**Sales Overview**
 
 Total Sales, Profit, Quantity Sold – summarized using KPIs.
 
 Year-on-Year performance trend visualized.
 
-Top Performers
+**Top Performers**
 
 Identifies top 5 products and top customers contributing to sales and profit.
 
