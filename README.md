@@ -35,25 +35,25 @@ Identifies top 5 products and top customers contributing to sales and profit.
 
 Product categories ranked by revenue.
 
-Regional Performance
+**Regional Performance**
 
 Map and bar visuals show how different states or regions are performing.
 
 Drill-down capability by region → city → customer.
 
-Profitability Analysis
+**Profitability Analysis**
 
 Profit margin by product category and segment.
 
 Highlighted areas where cost reduction or price optimization is needed.
 
-Time Series Analysis
+**Time Series Analysis**
 
 Monthly and quarterly sales trends.
 
 Seasonality patterns captured using line charts.
 
-Interactive Filters
+**Interactive Filters**
 
 Date slicer, region filter, customer segment – all allowing tailored insights.
 
